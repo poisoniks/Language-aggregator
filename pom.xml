@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.inject</groupId>
-    <artifactId>Language aggregator</artifactId>
+    <artifactId>Language_aggregator</artifactId>
     <version>1.2.1</version>
 
     <properties>
