@@ -21,7 +21,9 @@ public class Parser {
             if (m.matches()) {
                 try {
                     String[] s = el.split("=");
-                    map.put(s[0], s[1]);
+                    if(s.length==2) {
+                        map.put(s[0], s[1]);
+                    }
                 } catch (Exception e) {
                     throw new Exception("Invalid line:\n"+el, e);
                 }
