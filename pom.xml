@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.inject</groupId>
-    <artifactId>TranslationInjector</artifactId>
-    <version>1.2</version>
+    <artifactId>Language aggregator</artifactId>
+    <version>1.2.1</version>
 
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
